@@ -12,17 +12,17 @@
         android:layout_height="match_parent"
         android:id="@+id/listMessageContainer"
         android:layout_weight="1"/>
-    <FrameLayout
+    <!--<FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/detailMessageContainer"
-        android:layout_weight="1"/>
-    <Button
+        android:layout_weight="1"/>-->
+    <!--<Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Replace Fragment"
         android:onClick="onReplaceFragmentClicked"/>
-
+-->
     <!--<fragment
         android:layout_width="match_parent"
         android:layout_height="match_parent"
